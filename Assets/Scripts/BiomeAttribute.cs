@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "BiomeAttributes", menuName ="VoxelTUT/Biome Attributes")]
+[CreateAssetMenu(fileName = "BiomeAttributes", menuName ="VoxelWorld/Biome Attributes")]
 public class BiomeAttribute : ScriptableObject
 {
     public string biomeName;

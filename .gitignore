@@ -1,0 +1,8 @@
+# Files
+*.csproj
+*.sln
+
+# Folders
+**/Library/
+**/Temp/
+

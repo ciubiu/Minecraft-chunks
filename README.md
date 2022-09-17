@@ -1,6 +1,6 @@
 # Voxel 🟨 world made of chunks
 
-Inspired from Minecraft, B3agz and Holistic3D courses.
+Inspired from Minecraft, B3agz and Holistic3D courses. \
 The .cs files can be found in Assets/Scripts/ folder.
 
 ### Implemented features

@@ -13,6 +13,10 @@ The .cs files can be found in Assets/Scripts/ folder.
 - Chuncks drawing distance setting for game optimization. 
 - Player character can move, sprint, jump. 
 
+
+</br>
+<img src="https://i.imgur.com/dgCiAtM.png" alt="screenshot" width="400"/>
+
 ```
 Made in Unity version 2019.4.40
 ```
